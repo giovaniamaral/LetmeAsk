@@ -18,7 +18,7 @@
 
 <br>
 
-<p>Link do projeto Online src="https://letmeask-32ccb.web.app/"</p>
+<p>Link do projeto Online https://letmeask-32ccb.web.app/</p>
 
 ## 🧪 Tecnologias
 
