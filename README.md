@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
+  
+  <p>Link do projeto Online src="https://letmeask-32ccb.web.app/"</p>
 </p>
 
 <h1 align="center">
